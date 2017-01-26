@@ -1,0 +1,21 @@
+button {
+background-color: lightblue;
+width: 200px;
+height: 20px;
+}
+
+button:hover {
+  background-color: lightgreen;
+  font-size: 20px;
+  width: 300px;
+  border:3px red dotted;
+}
+
+p>a {
+  color:green;
+  text-decoration: none;
+}
+
+p>a:hover {
+  text-decoration: underline;
+}
